@@ -1,6 +1,6 @@
 ### Hi, I'm Kate!
 
-I'm currently a bootcamper at the [School of Code](https://www.schoolofcode.co.uk/) working towards becoming a full stack developer.
+I'm a recent [School of Code](https://www.schoolofcode.co.uk/) bootcamp graduate working towards becoming a full stack developer.
 
 ## My Stack:
 
