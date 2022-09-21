@@ -26,6 +26,8 @@ My stack is primarily HTML, CSS, JS, React and Next JS.
 
 ![codewars badge](https://www.codewars.com/users/E-K8/badges/large)
 
+## [freeCodeCamp profile](https://www.freecodecamp.org/tricoteka)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-K8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
