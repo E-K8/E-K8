@@ -1,6 +1,6 @@
 ### Hi, I'm Kate!
 
-### I'm a recent [School of Code](https://www.schoolofcode.co.uk/) graduate working towards becoming a full stack developer.
+### I'm a [School of Code](https://www.schoolofcode.co.uk/) graduate and intern working towards becoming a full stack developer.
 
 ### My stack is primarily HTML, CSS, JS, React and Next JS.
 
