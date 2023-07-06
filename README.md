@@ -6,7 +6,6 @@
 
 ### Currently diving deep into testing.
 
-
 <br/>
 
 [![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-K8&show_icons=true&theme=tokyonight)](https://github.com/E-K8/github-readme-stats)
@@ -17,10 +16,10 @@
 
 ## [freeCodeCamp profile](https://www.freecodecamp.org/tricoteka)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-K8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-K8&layout=donut&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/katplat/)
 
-![Profile views](https://gpvc.arturio.dev/E-K8)
+![Profile views](https://komarev.com/ghpvc/?username=E-K8&label=PROFILE+VIEWS&color=10866E)
