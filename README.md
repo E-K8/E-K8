@@ -4,7 +4,7 @@
 
 ### My stack is primarily JavaScript, Node JS and React.
 
-### Currently diving deep into testing.
+### Currently diving deep into testing and dipping my toes into Java.
 
 <br/>
 
